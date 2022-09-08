@@ -5,7 +5,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias no mundo web.
 - 🎓 &nbsp; Estudando **Desenvolvimento Web** na <a href="http://www.awari.com.br">AWARI</a>.
-- 🌱 &nbsp; Aprendendo mais sobre Python na <a href=".
+- 🌱 &nbsp; Aprendendo mais sobre Python.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
@@ -36,7 +36,7 @@
 <br/>
 
 <a href="https://github.com/RogerioZeferino">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RogerioZeferinos&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RogerioZeferino&theme=dracula&show_icons=true" />
 </a>
 
 <br/>
