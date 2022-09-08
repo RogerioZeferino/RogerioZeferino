@@ -3,9 +3,9 @@
 
 <h3> :man: &nbsp;Sobre mim </h3>
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🤔 &nbsp; Explorando novas tecnologias no mundo web.
 - 🎓 &nbsp; Estudando **Desenvolvimento Web** na <a href="http://www.awari.com.br">AWARI</a>.
-- 🌱 &nbsp; Aprendendo mais sobre .
+- 🌱 &nbsp; Aprendendo mais sobre Python na <a href=".
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
@@ -15,7 +15,7 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white")
   
 
 **Utilidades**
@@ -36,7 +36,7 @@
 <br/>
 
 <a href="https://github.com/RogerioZeferino">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VanessaSwerts&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RogerioZeferinos&theme=dracula&show_icons=true" />
 </a>
 
 <br/>
