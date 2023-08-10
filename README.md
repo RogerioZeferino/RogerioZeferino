@@ -3,9 +3,9 @@
 
 <h3> :man: &nbsp;Sobre mim </h3>
 
-- 🤔 &nbsp; Explorando novas tecnologias no mundo web.
-- 🎓 &nbsp; Estudando **Desenvolvimento Web** .
-- 🌱 &nbsp; Aprendendo mais sobre Ruby.
+- 🧑‍💻 &nbsp; Graduando em Análise e Desenvolvimento de Sistemas (Senac).      
+- 🧑‍🚀 &nbsp; Explorando tecnologias no mundo web.
+- 🤓 &nbsp; Aprendendo mais sobre Ruby.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
