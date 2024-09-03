@@ -13,7 +13,7 @@
 
   ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
   ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-  
+![CSHARP](https://camo.githubusercontent.com/0de855e8a74bac932e558ef8f132f7721be22528fae03b53f119f54a4189f7ab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6353686172702d3044313131373f7374796c653d666f722d7468652d6261646765266c6f676f3d637368617270266c6f676f436f6c6f723d707572706c65266c6162656c436f6c6f723d304431313137)
   
 
 **Utilidades**
