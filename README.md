@@ -5,7 +5,7 @@
 
 - 🧑‍💻 &nbsp; Graduando em Análise e Desenvolvimento de Sistemas (Senac).      
 - 🧑‍🚀 &nbsp; Explorando tecnologias no mundo web.
-- 🤓 &nbsp; Aprendendo mais sobre Ruby.
+- 🤓 &nbsp; Aprendendo mais sobre Ruby, C# e .NET.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
